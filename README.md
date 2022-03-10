@@ -45,13 +45,13 @@ My daily routine at work includes these technologies: `ReactJS`, `NextJS`, `Java
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
+      </td>      
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>Next.JS</strong>
         </span><br><br><br>
@@ -61,8 +61,21 @@ My daily routine at work includes these technologies: `ReactJS`, `NextJS`, `Java
         <span><strong>TailwindCSS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
+      <td width="25%" align="center">
+        <span><strong>SASS</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+      </td>        
+      <td width="25%" align="center">
+        <span>Jest</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
+      </td>          
     </tr>
     <tr valign="top">
+      <td width="25%" align="center">
+        <span>Testing Library</span><br><br><br>
+        <img height="64px" src="https://testing-library.com/img/logo-large.png">
+      </td>     
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
