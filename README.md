@@ -4,16 +4,15 @@
 
 <!--Introduction -->
 
-🗓️ I'm 28 years old. <br>
-⏳ Front-end developer with 3 years of experience. <br>
+🗓️ 29 years old. <br>
+⏳ Front-end developer with 3+ years of experience. <br>
 🇧🇷 Brazilian, based in São Paulo.<br>
 🤝 Actually working at [Digipix](https://digipix.com.br/).<br>
 My daily routine at work includes these technologies: `ReactJS`, `NextJS`, `Javascript`, `TailwindCSS`, `StoryBook`, `Jest` and `Testing Library`.
 
 ### 🌱 My goals for future as developer:
 
-- Learn `Typescript` and use in my side-projects
-- Write more reliable and clean code
+- Help the developer community by collaborating on open-source repositories 🌱
 - Learn more about Back-End and make my way to be a Full-Stack developer 🤓
 
 <br>
