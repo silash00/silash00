@@ -4,8 +4,8 @@
 
 <!--Introduction -->
 
-🗓️ 29 years old. <br>
-⏳ Front-end developer with 3+ years of experience. <br>
+🗓️ 31 years old. <br>
+⏳ Front-end developer with 4+ years of experience. <br>
 🇧🇷 Brazilian, based in São Paulo.<br>
 🤝 Actually working at [Digipix](https://digipix.com.br/).<br>
 My daily routine at work includes these technologies: `ReactJS`, `NextJS`, `Javascript`, `TailwindCSS`, `StoryBook`, `Jest` and `Testing Library`.
@@ -27,7 +27,7 @@ My daily routine at work includes these technologies: `ReactJS`, `NextJS`, `Java
 
 <br><br>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 <table>
   <tbody>
@@ -92,12 +92,9 @@ My daily routine at work includes these technologies: `ReactJS`, `NextJS`, `Java
   </tbody>
 </table>
 
+| ![GitHub Stats](https://github-readme-stats-eight-phi-69.vercel.app/api?username=silash00&show_icons=true&theme=graywhite) | ![Top Langs](https://github-readme-stats-eight-phi-69.vercel.app/api/top-langs/?username=silash00&hide_progress=true&theme=graywhite) |
+|:---:|:---:|
+
+
+
 <h4> Thanks for Visiting! 🙋🏾‍♂️</h4>
-
-<!-- Credit -->
-
-### Credit to
-
-- [**GIPHY**](https://giphy.com/) for GIFs.
-
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
