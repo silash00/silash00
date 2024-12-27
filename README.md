@@ -15,82 +15,28 @@ My daily routine at work includes these technologies: `ReactJS`, `NextJS`, `Java
 - Help the developer community by collaborating on open-source repositories 🌱
 - Learn more about Back-End and make my way to be a Full-Stack developer 🤓
 
-<br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🤝</em>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 🤝</em>
+[![Linkedin](https://img.shields.io/badge/-Silas%20Henrique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/silashsilva/) [![Telegram](https://img.shields.io/badge/-@silashenrique-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/silashenrique) [![Gmail](https://img.shields.io/badge/-silash.silva00-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:silash.silva00@gmail.com)
 
-[![Linkedin](https://img.shields.io/badge/-Silas%20Henrique-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/silashsilva/)
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" /><br />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/-Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" alt="Testing Library" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  
+</p>
 
-[![Telegram](https://img.shields.io/badge/-@silashenrique-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/silashenrique)
-
-[![Gmail](https://img.shields.io/badge/-silash.silva00-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:silash.silva00@gmail.com)
-
-<br><br>
-
-## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>      
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>Next.JS</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>TailwindCSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>SASS</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>        
-      <td width="25%" align="center">
-        <span>Jest</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
-      </td>          
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Testing Library</span><br><br><br>
-        <img height="64px" src="https://testing-library.com/img/logo-large.png">
-      </td>     
-      <td width="25%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-
-  </tbody>
-</table>
 
 | ![GitHub Stats](https://github-readme-stats-eight-phi-69.vercel.app/api?username=silash00&show_icons=true&theme=graywhite) | ![Top Langs](https://github-readme-stats-eight-phi-69.vercel.app/api/top-langs/?username=silash00&hide_progress=true&theme=graywhite) |
 |:---:|:---:|
