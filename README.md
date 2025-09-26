@@ -7,7 +7,7 @@
 🗓️ 31 years old. <br>
 ⏳ Front-end developer with 4+ years of experience. <br>
 🇧🇷 Brazilian, based in São Paulo.<br>
-🤝 Currently working at [Digipix](https://digipix.com.br/).<br>
+🤝 Currently working at [ClickBus](https://clickbus.com.br/).<br>
 My daily stack includes: `ReactJS`, `NextJS`, `Javascript`, `Typescript`, `TailwindCSS`, `StoryBook`, `Jest` and `Testing Library`.
 
 
